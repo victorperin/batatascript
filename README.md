@@ -1,6 +1,8 @@
 ![Batascript Logo](batatascript.png)
 > "You harvest what you plant"
 
+> "Do you better prefer potato or to study? I better prefer potato and to study."
+
 **Batatascript** is rural paradigm language that turns javascript code into javascript code 🥔 => 🍟
 
 ## Installing
